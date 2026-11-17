@@ -38,13 +38,6 @@ I build full-stack tools and iOS apps — currently looking for **full-time SWE 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## GitHub stats
-
-![Zarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarif2142&show_icons=true&theme=default&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zarif2142&layout=compact&theme=default)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=zarif2142&theme=default)
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=zarif2142&theme=github)
-
 ## Find me
 
 - Portfolio: [zarif2142.github.io](https://zarif2142.github.io)
